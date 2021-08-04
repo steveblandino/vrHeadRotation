@@ -20,7 +20,7 @@ To reproduce the results obtained in the paper *Steve Blandino, Tanguy Ropitault
   and Nada Golmie. 2021. Head Rotation Model for VR System Level Simulations*, please download the NJIT 6DOF VR Navigation Dataset at [https://www.jakov.org](https://www.jakov.org).
 
 ## How to Run 
-* To run the model simply run the  `src/mainRotationModel.m` script.
+* To run the model simply run the script `src/mainRotationModel.m`.
 * To reproduce the results in the paper *Steve Blandino, Tanguy Ropitault, Raied Caromi, Jacob Chakareski, Mahmudur Khan, 
   and Nada Golmie. 2021. Head Rotation Model for VR System Level Simulations*
 	* Download the NJIT 6DOF VR Navigation Dataset at [https://www.jakov.org](https://www.jakov.org)
