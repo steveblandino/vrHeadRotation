@@ -1,5 +1,5 @@
-function mobilityDataProcessing()
-%MOBILITYDATAPROCESSING process the NJIT 6DOF VR Navigation Dataset.
+function hrProcessing()
+%HRPROCESSING process the NJIT 6DOF VR Navigation Dataset.
 %
 % References:
 % M. Khan and J. Chakareski. NJIT 6DOF VR Navigation Dataset. 2020.
