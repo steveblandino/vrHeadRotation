@@ -25,7 +25,7 @@ To reproduce the results obtained in the paper *Steve Blandino, Tanguy Ropitault
   and Nada Golmie. 2021. Head Rotation Model for VR System Level Simulations*
 	* Download the NJIT 6DOF VR Navigation Dataset at [https://www.jakov.org](https://www.jakov.org)
 	* Extract the contentent of Traces_6DOF_NJIT.zip into the folder ./Traces_6DOF_NJIT
-	* Run the function `src/mobilityDataProcessing.m`
+	* Run the function `src/hrProcessing.m`
 
 ## Contributing
 Feedbacks and additions are more than welcomed! You can directly contact the [authors](#Authors) for any information.
